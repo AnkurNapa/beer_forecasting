@@ -36,7 +36,7 @@ st.text(name)
 
 # Title and Subheader
 st.title("Forecasting App")
-st.subheader("Fancy Beer Forecating App with Streamlit ")
+st.subheader("Beer Forecating App with Streamlit ")
 
 
 # EDA
