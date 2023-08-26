@@ -31,7 +31,7 @@ import joblib
 st.set_page_config(layout="wide")
 
 # Code Starting
-name = "Heineken Case Study"
+name = "Beer Sales Forecasting Case Study"
 st.text(name)
 
 # Title and Subheader
